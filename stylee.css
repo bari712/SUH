@@ -1,0 +1,278 @@
+.bg_photo
+{
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+
+
+.header
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 100px;
+	background: #fff;
+	border-bottom: 3px solid #000;	
+}
+
+
+.logo
+{
+	display: inline-block;
+	height: 100px;
+	margin: 0 80px;
+}
+
+
+.menu
+{
+	position: absolute;
+    top: 50%;
+    right: 10%;
+	display: inline-block;
+}
+
+
+.buttom_menu
+{
+	margin: 0px 0px 0px 50px;
+	display: inline-block;
+	left: 30px;
+	color: #000;
+}
+
+
+.signboard
+{
+	position: absolute;
+	margin-top: 200px;
+	width: 100%;
+}
+
+
+.name
+{
+	font-family: robot;
+	font-size: 50pt;
+	color: #000;
+	text-align: center;
+}
+
+
+.slogon
+{
+	font-family: monospace;
+	font-size: 22pt;
+	color: #000;
+	text-align: center;
+}
+
+
+.book_now
+{
+	line-height: 2em;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 42%;
+	width: 260px;
+	height: 50px;
+	font-family: robot;
+	font-size: 20pt;
+	background: #000;
+	color: #fff;
+	border-radius: 25px;
+
+}
+
+
+.content
+{
+	width: 100%;
+	background: #fff;
+	position: absolute;
+	margin: 500px 0;
+	left: 0;
+	border-top: 3px solid #000;
+}
+
+
+.about_block
+{
+	width: 50%;
+	background: #000;
+	margin: 100px;
+	padding: 60px;
+	color: #fff;
+}
+
+
+.about
+{
+	font-family: SourceSansPro;
+	font-size: 15pt;
+	width: 80%;
+	display: inline-block;
+}
+
+
+.photo
+{
+	position: absolute;
+	top: 120px;
+	left: 55%;
+}
+
+
+.services
+{
+	font-family: robot;
+	font-size: 25pt;
+	text-align: center;
+	color: #000;
+}
+
+
+.service
+{
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 100px;
+	width: 350px;
+}
+
+
+.photo_service
+{
+	width: 350px;
+	height: 250px;
+	background: linear-gradient(to top left, #fff, #000);
+}
+
+
+.name_service
+{
+	margin-top: 15px;
+	font-family: robot;
+	font-size: 18pt;	
+	color: #fff;
+}
+
+
+.line
+{
+	margin-top: 15px;
+	width: 350px;
+	height: 2px;
+	background: #fff;
+}
+
+
+.price
+{
+	margin-top: 15px;
+	font-family: robot;
+	font-size: 18pt;	
+	color: #fff;
+}
+
+
+.book_now_for_services
+{
+	margin-top: 15px;
+	line-height: 2em;
+	text-align: center;
+	width: 150px;
+	height: 50px;
+	font-family: robot;
+	font-size: 20pt;
+	background: #fff;
+	border-radius: 2px
+}
+
+
+.contacts
+{
+	margin-top: 60px;
+	background: #000;
+	font-family: robot;
+	color: #fff;
+}
+
+
+.contact
+{
+	font-family: robot;
+	font-size: 20pt;
+}
+
+
+.block
+{
+	margin-left: 100px;
+	margin-top: 60px;
+	margin-right: 200px;
+	margin-bottom: 20px;
+	display: inline-block;
+
+}
+
+
+.input
+{
+	background: #fff
+	border: 2px;
+}
+
+
+.subscription
+{
+	margin-top: 10px;
+}
+
+
+.inputer
+{
+	box-sizing: border-box;
+	border: 2px solid;
+	background: #fff;
+	display: inline-block;
+	width: 250px;
+	height: 25px;
+	color: #000;
+}
+
+
+.buttom
+{
+	box-sizing: border-box;
+	border: 2px solid #fff;
+	width: 35px;
+	height: 25px;
+	color: #fff;
+	display: inline-block;
+	background: #000;
+}
+
+.gw
+{
+	display: inline-block;
+	width: 330px;
+	padding: 30px;
+	margin-top: 80px;
+	margin-left: 240px;
+	font-family: robot;
+	font-size: 20pt;
+	background: #000;
+	color: #fff;
+	border-radius: 5px;
+}
+
+.gw_photo
+{
+	border-radius: 150px;
+
+}
